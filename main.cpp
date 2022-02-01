@@ -5,8 +5,8 @@ using namespace std;
 using namespace cv;
 //定义图片路径
 string  base_path ="/home/ww/opencv/test/DM_test/";
-string name1="4.jpg_r.jpg";
-string name2="4.jpg_l.jpg";
+string name1="6.jpg_l.jpg";
+string name2="6.jpg_r.jpg";
 //得到完整图片路径
 string all_path1=base_path+name1;
 string all_path2=base_path+name2;
