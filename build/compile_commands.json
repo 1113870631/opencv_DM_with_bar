@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ww/opencv/test/DM_test/build",
+  "command": "/usr/bin/x86_64-linux-gnu-g++-7  -isystem /usr/local/include/opencv4  -fopenmp -g -o CMakeFiles/DM.dir/main.o -c /home/ww/opencv/test/DM_test/main.cpp",
+  "file": "/home/ww/opencv/test/DM_test/main.cpp"
+}
+]
